@@ -9,7 +9,7 @@ jobs:
       - run: make deps
       - run: make lint
       - run: make test
-workflows:
+workflows: Legia Warszawa To Najlepszy Klub
   basic:
     jobs:
       - build-and-test 
